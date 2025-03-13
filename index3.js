@@ -1,1 +1,1 @@
-console.log("nuevo archivo");
+console.log("archivo nuevo");
